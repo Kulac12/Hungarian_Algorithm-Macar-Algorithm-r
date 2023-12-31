@@ -52,3 +52,6 @@ tüm karar değişkenleri 1’e eşittir.
 ![image](https://github.com/Kulac12/Hungarian_Algorithm-Macar-Algorithm-r/assets/71596094/0f1bcd8b-afe1-41cf-9639-4f52bbb261a0)
 
 
+ÖRNEK soru kaynak: https://web.itu.edu.tr/topcuil/ya/END331b.pdf
+
+
