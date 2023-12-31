@@ -17,22 +17,26 @@ değerlendirmelere göre yapmak istemektedir.
 ## Yanıt: Adım 1 & 2 
 Tablodaki her satır için en küçük maliyetler bulunur ve her 
 maliyetten kendi satırındaki en küçük maliyet çıkarılır.
+
 ![image](https://github.com/Kulac12/Hungarian_Algorithm-Macar-Algorithm-r/assets/71596094/3eb3883d-011a-4c70-ae58-1d62a99842ea)
 
 ## Adım 3 & 4.
 Yeni matrisin her sütunun en küçük maliyeti bulunur. Her maliyetten kendi 
 sütunundaki en küçük maliyeti çıkararak indirgenmiş maliyet matrisi elde edilir. 
+
 ![image](https://github.com/Kulac12/Hungarian_Algorithm-Macar-Algorithm-r/assets/71596094/ecf48979-abe0-4ddb-b2cb-c8cd01c91457)
 
 ## Adım 5.
 Aşağıdaki tabloda gösterildiği gibi 3. ve 4. satır ile 1. sütunda çizilecek çizgiler 
 indirgenmiş maliyet matrisindeki tüm sıfırları örter. Gerekli en az çizgi sayısı 3’dür. 
 4’den az çizgi gerektiğinden çözüm en iyi değildir. Bir sonraki adıma geçilir. 
+
 ![image](https://github.com/Kulac12/Hungarian_Algorithm-Macar-Algorithm-r/assets/71596094/db576d49-67f9-4708-b6d3-5729c686cec8)
 
 ## Adım 6 & 7.
 . Örtülememiş en küçük maliyet 1’dir. Her örtülmemiş maliyetten 1 çıkarılır 
 ve iki çizgi ile örtülenlere 1 eklenir. 
+
 ![image](https://github.com/Kulac12/Hungarian_Algorithm-Macar-Algorithm-r/assets/71596094/e03a556f-f1da-4253-9136-e785602bd2a3)
 
 Yeni tabloda tüm sıfırları dörtten daha az çizgi ile örtmek mümkün değildir. En iyi 
