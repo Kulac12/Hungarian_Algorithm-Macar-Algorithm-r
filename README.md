@@ -11,6 +11,7 @@ teknisyenini (T1, T2, T3, T4) yetkinlik, uyum ve moral motivasyon açısından 1
 ölçeğinde değerlendirmişlerdir (1: çok iyi, 20: çok kötü). Değerlendirme notları tabloda 
 verilmiştir. Havayolu şirketi her uçuş teknisyeninin kaptan pilotlara atamasını bu 
 değerlendirmelere göre yapmak istemektedir. 
+
 ![image](https://github.com/Kulac12/Hungarian_Algorithm-Macar-Algorithm-r/assets/71596094/f3c0402a-6397-48c9-805e-32c78b685744)
 
 ## Yanıt: Adım 1 & 2 
